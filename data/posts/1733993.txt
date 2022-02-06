@@ -1,0 +1,19 @@
+Education: B.Tech in Computer Science
+Years of Experience: 1.5 years
+Prior Experience: Frontend Engineer at a service based company
+Previous Compensation: INR 8,00,000
+Date of the Offer: Jan 2022
+Company: Flipkart
+Title/Level: UI Engineer 1
+Location: Bangalore, India
+Base Salary: INR 20,00,000
+Stock bonus: 44 Stock Units (~ INR 6,21,000 vested over 4 years - 25% each year)
+Performance Bonus: 10% of base salary every year (INR 2,00,000)
+Total comp (Salary + Bonus + Stock): ~INR 23,50,000
+Benefits: 20 paid annual leaves, 12 paid casual leaves, 10 paid national holidays, 2 paid optional days, medical insurance, life insurance, etc.
+Other details: Tried to negotiate, but the other offers I had were not very competitive at the time.
+Interview Experience - https://leetcode.com/discuss/interview-experience/1734735/Flipkart-or-UI-Engineer-1-or-Bangalore-or-Dec-2021-or-Offer
+Other offers:
+Byjus - https://leetcode.com/discuss/compensation/1734008/Byjus-or-Frontend-Engineer-or-Bangalore
+SplashLearn - https://leetcode.com/discuss/compensation/1734018/SplashLearn-or-Frontend-Engineer-or-RemoteGurgaon
+CleverTap - verbal offer: ~INR 23,00,000 (Clevertap interview - https://leetcode.com/discuss/interview-experience/1734946/CleverTap-or-Frontend-Engineer-or-Jan-2022-or-Mumbai)

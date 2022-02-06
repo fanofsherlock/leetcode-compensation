@@ -1,0 +1,13 @@
+Education: B.Tech - tier 3
+Years of Experience: 4yrs 2 months
+Prior Experience: MNC
+Company: Amazon
+Title/Level: SDE2 (L5)
+Location: Gurgaon
+Base Salary: INR 33,55,000
+Signing Bonus: INR 17,00,000 first year. INR 13,50,000 second year.
+Stock bonus: 20 units over 4 years (1+3+8+8)
+Total comp (Salary + Bonus): INR 52,00,000 first year
+Current Comp: 18
+Benifits: Standard Amazon benifits
+Interview experience link: https://leetcode.com/discuss/interview-experience/1729022/Amazon-or-SDE2-or-Gurgaon

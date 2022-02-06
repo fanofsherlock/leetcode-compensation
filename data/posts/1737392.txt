@@ -1,0 +1,34 @@
+Total experience: 4.5
+Previous TC : 24L
+Rivigo
+Base: 40L
+JB:5L
+Hike:
+Base:38
+Variable pay:4
+Stocks:20L (over 4 year)
+Razorpay
+Base:37L
+Variable pay:3.7L
+TC(base+vp+ pf+ insurance):42L
+JB:5L
+STOCKS: 20L vested over 4 years
+zipcar
+BasePay:40.8L
+Provident Fund:2L
+Variable Pay:4L
+JB:5L
+Retention:5L
+Offers in pipeline: Swiggy, microsoft, Grab,
+Edit:
+Additional Offers in pipeline:-Navi
+Rejected:
+Groww,Bharatpe- Due to Lowballing
+Rivigo: Due to Culture.
+Zipcar: Work is not interesting.
+Q1- Confused in choosing offer from the current that i have got.
+Q2- want to joint microsoft, how can negotiate to get the best offer from them, which competing offer should i show?
+Interview Experince:
+https://leetcode.com/discuss/interview-experience/1739202/Rivigo-or-SSE-or-Indiaor-Jan2022
+https://leetcode.com/discuss/interview-experience/1739237/Hikeor-SSE-or-India
+https://leetcode.com/discuss/interview-question/1739263/RazorPay-or-Senior-Software-Engineer-or-India

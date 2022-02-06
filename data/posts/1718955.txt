@@ -1,0 +1,16 @@
+Education: B.Tech CSE, Tier 1
+YOE : 3.5+
+Current TC : 26.6L (fixed) + 3L (variable) + 6L (RSUs) INR
+Offer:-
+base: 39L INR
+variable bonus: 3.9L INR (generaly paid 100%)
+Joining bonus: 11.5L INR
+Work from home allowance: 1.5L INR
+Stocks: 45L INR (vested equaly over 4 years) ~ 11.25L INR per year
+Total compensation: (base + bonus + RSUs) : 39 + 3.9 + 11.5 + 11.25 ~ 65.65L INR 1st year,
+** 55.65L INR from second year**
+Other benifits :-
+GYM allowance, internet bills allowance, medical insurrance etc.
+Other details: Had couple of competings offers. Will share my interview experience soon.
+Update:-
+Interview exp: https://leetcode.com/discuss/interview-experience/1720816/Indeed-or-SWE2-or-Hydrabad-Remote-or-Offer

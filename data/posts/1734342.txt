@@ -1,0 +1,17 @@
+Key Value
+Education BE in CS, tier-3
+Years of Experience 1 year 3 months
+Current salary 8.2L
+Date of the Offer Dec 2021
+Company Amazon (ADCI)
+Title/Level SDE-1 (L4)
+Location Hyderabad, India
+Salary 17L
+Signing Bonus 6.5L
+Relocation Bonus 1.5L
+Stock bonus 5 Amazon stock units
+Total comp 22.5L
+Benefits Std Amazon (food coupons, internet reimbursement, insurance, etc)
+Competing offers:
+Yellow.AI (23L with 18L base)
+eQ Technologic (13L with 11.2L

@@ -1,0 +1,11 @@
+Education: Tier 1 College
+Years of Experience: fresher
+Company: PlanetSpark
+Title/Level: Software Developer
+Location: Gurugram
+Basic Salary: 6.5L
+HRA : 3.25L
+Special Allowance: 3.25L
+Total Salary(Base): 6.5L + 3.5L + 3.5L = 13L
+Annual Bonus(Variable): 2L
+Total comp (Salary + Bonus + PF): 1521600 INR

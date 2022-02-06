@@ -1,0 +1,13 @@
+Education: Engineering from Tier-3
+Experience: 4+
+Current comp: INR 24 LPA
+Current Company: Airtel Digital
+Date of the Offer: Jan 2022
+Company: Intuit
+Level: Senior Software Engineer
+Location: Bangalore
+Base Salary: INR 30 LPA
+Stock bonus: $60K (over 4 years) INR 10.5 LPA per year
+Perf. Bonus: INR 4.5 LPA (0 to 15% of base)
+Total comp (Base + Perf. Bonus + Stock): INR 45 LPA
+Interview Experience : https://leetcode.com/discuss/interview-experience/1744259/Intuit-or-Senior-Software-Engineer-or-Bangalore-Offer

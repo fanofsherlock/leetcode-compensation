@@ -1,0 +1,15 @@
+SDE | 2022 grad
+Milkbasket
+Fixed: 11L
+Variable: 1L
+CTC: 12L
+BrightChamps
+Fixed: 10.2L
+Variable: 1.8L
+Stocks: 16L (vesting 25% each year)
+CTC (1st yr): 16L
+Jai Kisan
+Fixed: 10L
+Variable: 2L
+CTC: 12L
+Which offer should I choose?

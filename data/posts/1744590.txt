@@ -1,0 +1,5 @@
+Hello, this is to seek guidance and negotiate. I have been told by the recruiter that I have cleared all the rounds and they will be releasing an offer. I have not seen any recent salary posts here on LC for Amazon Toronto (other than 1 posted for SDE2 yesterday). I checked and it looks like I will be offered a TC of around C$150,000 (+ relocation of about C$7,000), but I am a little torn to accept it as I am currently an SDE2 in India, my YoE is 3.5 and my current TC is rougly 52LPA.
+I am not gonna ask stupid questions like "if this is enough" :)
+I am worried that I will take a hit in career - moving from a good company at mid-senior role to junior-mid role in a Tier 1 company. I will be moving to 200% of my current salary, but in a city which is at least 2.5x expensive on an average.
+As I am on the edge of required yoe for SDE2, I have been told by the recruiter that they will promote me based on my performance, in as early as 2-3 months.
+Should I accept the offer and work hard to get SDE2 or should I just wait another 6 months and try again for SDE2 directly? More importantly.. do companies promote people in less than 6 months?

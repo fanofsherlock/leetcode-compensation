@@ -1,0 +1,7 @@
+Company: housing.com
+Title/Level: Software Developer Intern
+Location: Gurgaon
+CTC: 11 LPA
+salary: 35K
+Relocation/Signing Bonus: none
+Other details: Standard Benefits

@@ -1,0 +1,11 @@
+YOE : 10
+Previous TC : 90K Eur
+Date of the Offer: Jan 2022
+Company: Amazon
+Title/Level: SDE2
+Location: Berlin
+Salary(Base): 96K Eur
+Signing Bonus (1st Year): 24K Eur
+Signing Bonus (2nd Year): 20K Eur
+Stock bonus: 20 Units (Vested over 4 years - 5,15,40,40%)
+Total comp (Salary + Bonus + Stock) for 1st Year: 96K + 24K + 5% of stocks = 125K

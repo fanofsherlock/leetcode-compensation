@@ -1,0 +1,22 @@
+please comment if you know the current FMV and face value
+Education: B.Tech CSE (Tier 3)
+Years of Experience: 2.7
+Prior Experience: SDE1 in company which will never go public
+Previous CTC - 12L fixed
+Date of the Offer: Jan 2022
+Company: Swiggy
+Title/Level: SDE 2
+Location: Bengaluru
+Salary(Base): 33L
+Relocation: 0
+Signing Bonus: 3L
+Retention Bonus: 2L (2L after 1st year,)
+Stock bonus: Around 16L across 4 years
+Total comp (Salary + Bonus + Stock): 42 LPA for 1st year
+Benefits: Standard Benfits.
+Interview Experience:
+Online assessment- 3 questions - check out swiggy geinie problem
+Machine coding roung - 2 hrs LLD
+Programming round -1 hr 2 questions
+Design interview - LLD + HLD(some concepts) -> No coding
+Hiring manager round - previous projects and clarification. asked technical questions (asked to Implement LRU)

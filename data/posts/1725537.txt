@@ -1,0 +1,10 @@
+College: BTECH Tier 1 college
+Branch: ECE
+Company Name: Wipro
+Location: Hyderabad
+Role: Tester
+Salary: 3.6L
+Total of 3 rounds were conducted:
+Apptitude
+coding
+HR interview

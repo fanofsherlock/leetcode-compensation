@@ -1,0 +1,5 @@
+Citi hired interns in their 3rd year, for the role of analyst
+Its a 2 month long program with a competitive stipend of 75k/month
+round1: online round + screening based of resume
+round2: Technical round of 45 mins, DSA and CS Fundamentals
+round3: HR round

@@ -1,0 +1,7 @@
+def CountSort(A):
+s = ''
+d = list(set(A))
+for i in range(len(d)):
+s += (str(min(d)) + ' ')*A.count(min(d))
+del d[d.index(min(d))]
+return list(map(int, s))

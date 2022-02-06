@@ -1,0 +1,13 @@
+Education: Tier 3 college
+Years of Experience: 5.4
+Prior Experience: Big4
+Current TC = 15
+Company: Walmart
+Title/Level: Software Engineer IN3
+Location: Bangalore
+Base Salary: 25
+Relocation/Signing Bonus: 0
+Stock bonus: 3.6
+Bonus: 4.8
+Total comp (Salary + Bonus + Stock): 33.5
+Benefits: Standard walmart benefits

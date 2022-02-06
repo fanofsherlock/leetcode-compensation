@@ -1,0 +1,18 @@
+Education: B.Tech Tier 3 College (CSE)
+Years of Experience: 1.5 yr (2020 Graduate)
+Previous TC: 16 LPA
+Date of the Offer: Jan 2022
+Company: Amazon
+Title/Level: SDE1
+Location: Bangalore
+Salary(Base): 18.5L
+Signing Bonus (1st Year): 12.3L
+Signing Bonus (2nd Year): 7L
+Stock bonus: ~21.5L (Vested over 4 years)
+Total comp (Salary + Bonus + Stock) for 1st Year: 18.5L + 12.3L + 5% of stocks = ~31.8L
+Benefits: Standard Amazon Benefits like Internet Reimbursement, Sodexo coupons, Insurance etc
+Competing Offers details: ShareChat SDE1, Oracle (IC2)
+Other Details: Didn't negotiate
+Rejected the offer majorly due to bad reputation and culture
+Oracle IC2 Offer: https://leetcode.com/discuss/compensation/1727343/Oracle(OCI)-or-IC2-or-Bangalore
+ShareChat SDE1 Offer: https://leetcode.com/discuss/compensation/1727346/ShareChat-or-SDE-1-or-Bangalore

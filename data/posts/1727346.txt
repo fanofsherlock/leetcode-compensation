@@ -1,0 +1,18 @@
+Education: B.Tech Tier 3 College (CSE)
+Years of Experience: 1.5 yr (2020 Graduate)
+Previous TC: 16 LPA
+Date of the Offer: Dec 2021
+Company: ShareChat
+Title/Level: SDE1
+Location: Bangalore
+Salary(Base): 25L excluding gratuity
+Signing Bonus: 2L
+Performance Bonus: 2.5L
+ESOPS: ~20L (Vested over 4 years equally)
+Total comp (Salary + Bonus + ESOPS) for 1st Year: 25L + 2L + 2.5 + 25% of stocks = ~34.5L
+Benefits: Standard Sharechat Benefits like Zomato Coupon, free Mfine consultations, Insurance etc
+Other Details: Negotiated with other offers
+Competing Offers details: Oracle IC2, Amazon SDE1
+Accepted the offer
+Amazon SDE1 Offer: https://leetcode.com/discuss/compensation/1727333/Amazon-or-SDE-1-or-Bangalore
+Oracle IC2 Offer: https://leetcode.com/discuss/compensation/1727343/Oracle(OCI)-or-IC2-or-Bangalore

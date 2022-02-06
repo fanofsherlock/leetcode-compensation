@@ -1,0 +1,14 @@
+Background:
+Education: Local college in Finland
+YOE: 2,5
+Offer
+Date: January 2022
+Company: Unity Technology
+Title: Software Developer
+Location: Helsinki, Finland
+Salary: 58k EUR/yr
+Relocation: 7250 EUR
+Signing Bonus: none
+Stock: 168k USD vested over 4 year.
+Benefit: Standard Collective Agreement, additional pay days and pay leave for maternity, discount on a variety of services in the city, transportation reimbursement, free snacks, drinks
+TC: 102k EUR first year, 95k EUR second year onward.

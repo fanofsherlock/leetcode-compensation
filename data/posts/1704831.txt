@@ -1,0 +1,29 @@
+Status: 3.5 YOE, Tier-1 Non CS
+Position: SDE-2 at Product based Fintech
+Current CTC: 25L
+MindTickle - SDE 2
+Base: 36L
+Performance Bonus: 3.6L (10% of base) Can be more than that based on performance.
+Signing Bonus: 2L
+Stock bonus: 30L worth ESOPs grant vested over 4 years
+Total comp (Salary + Bonus + Stock): ~42LPA (First year: 36+3.6+2) - excluding ESOPS
+Benefits: General benefits, free breakfast, lunch and snacks, insurance etc.
+*Permanent Remote
+BlinkIt (Grofers) - SDE 2
+Base: 41L
+Performance Bonus: NIL
+Signing Bonus: 5L
+Stock bonus: 16L worth ESOPs grant vested over 4 years
+Total comp (Salary + Bonus + Stock): 46LPA (First year: 41+ 5) - excluding ESOPS
+Blink Health - Senior Software Engineer
+Location: Bangalore
+Base: 45L
+Performance Bonus: NIL
+Signing Bonus: 5L
+Stock bonus: 1300 units (14$ strike price)
+Retention Bonus: 3.5L (First Year) 3.5L (Second Year)
+Total comp (Salary + Bonus + Stock): 53.5LPA (First year: 45 + 5 + 3.5) - excluding stocks
+I honestly need help from an unbiased view of the community based on the offers -
+Is BlinkHealth a good option giving it's very early stages in India considering growth and problem space?
+Also considering - WLB, Culture
+I will soon post my interview preparation and experience. Very thankful to Leetcode community - helped me a lot with the preparation and I will surely give back to it.

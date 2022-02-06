@@ -1,0 +1,18 @@
+Education: B.Tech in Computer Science
+Years of Experience: 1.5 years
+Prior Experience: Frontend Engineer at a service based company
+Previous Compensation: INR 8,00,000
+Date of the Offer: Dec 2021
+Company: Byjus
+Title/Level: Software Engineer - Frontend
+Location: Bangalore, India
+Base Salary: INR 12,00,000
+Joining Bonus: INR 1,00,000
+Performance Bonus: INR 1,00,000
+Total comp (Salary + Bonus + Stock): INR 14,00,000
+Benefits: 12 paid annual leaves, 12 paid casual leaves, medical insurance, accident insurance, etc.
+Other details: Tried to negotiate, but had no other offer at the time.
+Other offers I got after Byjus:
+SplashLearn - https://leetcode.com/discuss/compensation/1734018/SplashLearn-or-Frontend-Engineer-or-RemoteGurgaon
+Flipkart - https://leetcode.com/discuss/compensation/1733993/Flipkart-or-UI-Engineer-1-or-Bangalore
+CleverTap - verbal offer: ~INR 23,00,000

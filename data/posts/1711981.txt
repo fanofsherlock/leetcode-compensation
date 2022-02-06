@@ -1,0 +1,23 @@
+Hi!, I recently got an offer from Cognizant as a Data Engineer Role.
+It consists of three rounds
+Technical MCQS
+Coding Round
+Technical and HR Round
+Questions asked in the first round were of medium level. Questions in this round covered from the topics {OOPS, ERROR DETECTION, FILLING MISSING CODES, SQL}
+Three Questions were asked in Coding Round, where each question consisted of 2 questions.
+First two questions were problem solving one and were of medium level.
+almost all questions were about DP and GREEDY
+The Third Question was SQL related and was a moderate Question as well
+I was qualified in the First Round and was Qualified to the second Round. I answered Two questions of Three coding questions, I couldnt attend Third question which was SQL related.
+In next few days, I recieved a Mail regarding Second Round qualification.
+Technical Round was little easy for me, because interviewer was very friendly. He asked me basic coding questions and concepts like OOPS and DBMS
+Finally, I recieved a mail regarding selecting process.
+**TIPS FROM MY EXPERIENCE **
+Dont stop coding, solve as much as you can everyday
+Dont Learn too many concepts at a time
+Stick to one programming language
+Learn by doing, I mean projects
+Dont jump to the answer early, Atleast stick to a problem for an hour
+Read others Code or watch Youtube (This is the most important tip from my experience)
+AGAIN!, practice, practice, practice...
+BEST OF LUCK

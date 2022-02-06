@@ -1,0 +1,14 @@
+Education : Double Masters (CS and Data Science)
+YoE : 0 fulltime (1 year of total internship ex. in ML)
+Date of Offer : Jan 2022
+Company: Google
+Location: Mountain View, CA
+Salary: $150,000 base
+Stock bonus : $100,000 over 4 years (33, 33, 22, 12)
+Perfomance Bonus : 15%+ of base salary
+Signing Bonus: $25,000
+Relocation : $10,000
+Total Comp : (1st Year: $240.5k | 2nd Year: $205.5k | 3rd Year: $194.5k | 4th Year: $184.5k)
+Benefits: All the benefits mentioned here -> https://www.levels.fyi/company/Google/benefits/
+Negotiation: Did not negotiate, as this was my first offer and other competing offers came in hand later.
+Interview Experience: https://leetcode.com/discuss/interview-experience/1737487/Google-or-L3-ML-SWE-or-Mountain-View-or-Feb-2022-Offer

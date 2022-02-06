@@ -1,0 +1,7 @@
+Education: B.Tech
+YOE: NIL
+Prior Experience: Intern at Amazon
+Company: Uber
+Title: SDE Intern
+Location: India
+Stipend: 1.6L/month

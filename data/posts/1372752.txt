@@ -1,0 +1,16 @@
+Profile:
+SDE-1
+Eligibility:
+B.Tech: Computer Science Engineering
+B.Tech: Electronics & Communication Engineering
+M.Tech: Computer Science Engineering
+CGPA:
+Minimum 7.5 for ECE students
+no minimum CGPA required for CS students
+CTC: 26.57 LPA
+18 Lac Base Pay
+1.8 Lac Variable Pay
+5.07 lac ESOPs (Vested over 4 yrs - 25% per year)
+1.69 lac Benefits
+Location:
+Bangalore

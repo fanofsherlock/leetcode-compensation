@@ -1,0 +1,16 @@
+Exp:1.6yrs
+After lot of grinding in Leetcode & GFG, received an offer 21LPA(all fixed) from a product based company.
+Graduated in 2020 from Tire-3 college, working in a service based company primarly in the frontend role.
+Started giving interviews 6 months back just to get familiarity and actively giving interviews from 3 months.
+Strategy Followed:
+As my exp is in frontend role - focussed primarly on Javascript then Leetcode questions and then library/framework specific
+In-general rounds for a Frontend engineer
+You can expect primarly leetcode easy-medium and bit of medium-hard questions for Ds/Algo round(OA and Round 2)
+Very Useful-TeamDevkode - DOM challenges
+https://github.com/devkodeio/the-dom-challenge (machine coding round - Round 1)-Checkout their community as well, its useful if you are JS engineer.
+You Don't know JS yet (In Depth JS and library/framework specific- Round -3)
+Akshay - https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ (JS Reference).
+For Hiring Manager - There will be a mix of all the above
+Doesn't matter which role(Tech) you apply for - Do practice leetcode type questions, it not only increases your logical thinking but also your confidence.
+Dont just look out for FAANG. There are N number of companies which has very good pay.
+First Post - Please let me know if any improvements can be done.

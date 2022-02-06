@@ -1,0 +1,11 @@
+Profile:
+SDE-1
+Eligibility:
+B.Tech: Computer Science Engineering
+B.Tech: Electronics & Communication Engineering
+M.Tech: Computer Science Engineering
+CGPA:
+Minimum 7.5 for ECE students
+CTC: 11.5 + 2(Rellocation bonus) LPA
+Location:
+hyderabad.

@@ -1,0 +1,57 @@
+Online Test
+First Round: Resume Shortlisting
+A total of 92 students was shortlisted for the online test.
+Time Duration: 1 hr
+No. of questions: 2 coding questions only
+Platform: HackerEarth
+Questions were pretty easy and straightforward. It took less than 30 minutes to solve both questions.
+After the online test 10 students were shortlisted for the interview round.
+Online Test Question 1
+N strings of equal length and a single integer K is given, In one operation we can select two strings out of N (say A and B) and swap(A[i], B[i]).
+We have to answer whether we can make at least K strings equal or not by performing any number of operations.
+Online Test Question 2
+Given n coordinate (x, y) of points on 2D plane and Q queries. Each query contains an integer r, the task is to count the number of points lying inside or on the circumference of the circle having radius r and centered at the origin.
+============================================================
+Round 1 Interview
+This round started with a brief introduction and then they directly jumped into DSA questions. They discussed a total of 3 questions starting with my approach (any optimization if possible) and then implementation followed by dry run on some cases not asked to execute the code. For some candidates, they asked to code on google doc 🤢, I was lucky because they asked me to code on some online code editor. This round lasted in roughly 1 hour.
+First question:
+Given a sorted array containing duplicate elements, and was asked to remove repeated integers such that all integers appear only a single once and return the length of this array without using any extra space.
+Link: Available on GFG
+Second question:
+Given two sentences (array of strings,vector<string> ) and a list of pair of words ( array of pair of string, vector<pair<string, string>> ) where each pair represents that both words in a pair are similar.
+if vector<pair<string, string>> similarWords = { {a, b}, {b, c}, {d, e}}
+It means "a" is similar to "b", "b" is similar to "c", "d" is similar to "e".
+Also, they follow symmetric and transitive property means if "a" is similar to "b" then "b" is also similar with "a" and if "a" is similar to "b" and "b" is similar to "c" means "a" is also similar to "c". And obviously, if two words are equal then also they are similar.
+And we have to answer whether the two sentences are similar or not. Two sentences (say A and B) are similar if they satisfy the following conditions:
+i) Both sentences should have an equal number of words.
+ii) Corresponding words of both sentences should also be similar. Like 1st word of A and 1st word B, 2nd word of A and 2nd word of B similarly ith word of A and ith word of B should be similar also.
+Ex1:
+S1: Mango is fruit
+S2: Apple is tasty
+similar words = { {"Mango", "Apple"}, {"tasty", "yummy"}, {"yummy", "fruit"} }
+So here S1 and S2 are similar.
+And if we say similar words = { {"Mango", "Apple"}, {"tasty", "yummy"} } then S1 and S2 are not similar because 3rd word, "fruit" and "tasty" is not similar.
+I solved it using Disjoint Set Union, and used map<string, string> to implement DSU for strings, not sure it was correct.
+3rd question:
+Given a binary tree, find the length of the longest path where each node in the path has the same value. This path may or may not pass through the root. The length of the path between two nodes is represented by the number of edges between them.
+Exactly same as below link
+Link: Available on GFG
+Tips:
+i) Don't think anything silently, speak the same thing you are thinking.
+ii) After explaining your approach when you are coding then also explain each line/piece of code what it is doing.
+iii) After completing your code always dry run your code on given test cases and all possible corner cases and demonstrate the same to the interviewer by speaking it aloud.
+iv) If you are not sure how to solve or you facing difficulty in debugging then you can also ask for some hints. It's not a negative point.
+This round also went fine for me, interviewer was completely satisfied with my approach and my explanations, I was able to solve 1st and 3rd questions in one go with the optimal approach, for 2nd question first I explained the brute force approach using sets, then he asked me to optimize this I explained my approach using DSU, but I was not sure so I asked whether I m going in the correct direction or not then he agreed and asked to implement the same.
+After this round, 5 candidates out of 10 were shortlisted for the next round(HR round).
+====================================================
+Round 2 Interview
+This round also started with an introduction, HR was very friendly he was talking like a friend after asking how are you and my intro, he asked me to share my screen and open my any one project and explain everything about it. This round lasted roughly 20-25 min.
+He was too focused on the project, he asked everything in very deep regarding my project. After asking about my project he asked if there were any questions for him?, I asked a few questions regarding CultFit and he explained it briefly because he was running out of time.
+A short summary of my conversation with HR: When he said explain about your project, after sharing the screen first I opened my portfolio website because there I have kept my all projects, its live demo link, source code link. I have hosted my portfolio website on netlify so first thing he asked about netlify and how I deployed my portfolio there. Then I selected my E-commerce Website to explain so I opened that project and then he asked me to open the Github repository, my last commit was around 28 days ago, so he asked why all these commits are so recent, have you copied it from somewhere?. Then I explained that I did this project last year only, but recently I cleaned code and added some extra features. Then he asked me to show the commit history and then I did the same and after seeing my last year commits he was little bit satisfied. Then he asked me which IDE i use and open the code in the same IDE and explain the code. So opened the code in VS Code and started explaining. My website was in Django, and it has two apps "account" and "shop" and I explained what are their functions.
+He was more interested in account app and authentication part. He asked me to create and verify the user. Then further question how authentication is working, asked me to open the code responsible for that, how I am sending the email, how I am generating verification token.
+I have hosted my website on pythonanywhere so he asked about it also, how I am pushing code there, how I am deploying and doing setup, asked me to open my pythonanywhere account and asked to show folder structure and then asked to open console there.
+After asking so many questions🥵 and verifying my all commits and accounts he was completely satisfied and asked if there were any questions for him.
+That's it! It was the end of the interview.
+Verdict: Selected🤩!! (Total 3 candidates got selected out of 5)
+Final Summary
+There was not a single question from DBMS and OOPs in the entire process. Be confident, don't feel depressed because of your previous failures, interviews not only depend on skills, luck also matters a lot.
