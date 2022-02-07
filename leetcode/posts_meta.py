@@ -29,7 +29,7 @@ till_datetime = args.till_date
 
 # get all the meta info from leetcode compensations page.
 all_posts = []
-page_no = 1
+page_no = 297
 while True and page_no <= LAST_PAGE_NO:
     posts = get_compensation_posts(page_no)
     if not posts:
